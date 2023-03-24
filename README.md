@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shibedrill
-- 👀 I’m interested in cybersecurity, game development, and practical automation programming.
-- 🌱 I’m currently learning Python, and I might try learning Rust.
-- 📫 How to reach me: ShibeDrill@9875 on Discord
+- 👀 I’m interested in systems development, operating systems, and systems administration.
+- 🌱 I’m basically fluent in Python, and trying to master Rust as a second language. I also know some BASH.
+- 📫 How to reach me: ShibeDrill@9875 on Discord, or shibedrill1@gmail.com for email.
 
 <!---
 shibedrill/shibedrill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
