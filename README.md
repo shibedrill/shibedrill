@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shibedrill
 - 👀 I’m interested in systems development, operating systems, and systems administration.
-- 🌱 I’m basically fluent in Python, and trying to master Rust as a second language. I also know some BASH.
+- 🌱 I’m basically fluent in Python, and trying to master Rust as a second language. I also know some BASH, and rudimentary Java and C++.
 - 📫 How to reach me: @shibedrill on Discord, or shibedrill1@gmail.com for email.
 
 <!---
