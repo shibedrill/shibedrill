@@ -1,0 +1,11 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+This message was uploaded to https://github.com/shibedrill/shibedrill on 2024-06-27.
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQyHxm2NU175rKAsapf4MsllF76ogUCZnz98QAKCRBf4MsllF76
+ojbvAQD5vDGSQ7ok41aQJLLSGafTosx3MHLgXNc3olg68099fQEA9VPt2NU3C7Od
+Q19A2yH7h6Ua/HroXZx3+1lNi6X7iQ4=
+=+UGZ
+-----END PGP SIGNATURE-----
