@@ -4,6 +4,9 @@ I'm River (or Shibe Drill) [she/they/it]. I'm a programmer and tinkerer, current
   
 ![My coolest project, Oxidefetch](https://github.com/user-attachments/assets/1d43d407-2e0e-4c4a-9e80-8e9779ffa7bb)
 
+(Featured in this image: [lspci-rs](https://github.com/gibsonpil/libpci-rs), a Rust rewrite of libpci.)
+
+![lspci-rs, a Rust rewrite of libpci.](https://github.com/user-attachments/assets/91e9d32e-3fbc-472a-87d4-494c0b613090)
 
 ## How to contact me
 You can send me an email at [shibedrill1@gmail.com](mailto://shibedrill1@gmail.com), optionally encrypting it using [my public PGP key](River_0x945EFAA2_public.asc). Also, as proof that I own this key, a [signed message](signed_message.txt) is available that may be verified using this pubkey. More of my socials are available on [my Carrd](https://riverdev.carrd.co).
