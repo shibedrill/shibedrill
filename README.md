@@ -4,7 +4,7 @@ I'm River (or Shibe Drill) [she/they/it]. I'm a programmer and tinkerer, current
   
 ![My coolest project, Oxidefetch](https://github.com/user-attachments/assets/1d43d407-2e0e-4c4a-9e80-8e9779ffa7bb)
 
-(Featured in this image: [lspci-rs](https://github.com/gibsonpil/libpci-rs), a Rust rewrite of libpci.)
+(Featured in this image: [libpci-rs](https://github.com/gibsonpil/libpci-rs), a Rust rewrite of libpci.)
 
 ![libpci-rs, a Rust rewrite of libpci.](https://github.com/user-attachments/assets/91e9d32e-3fbc-472a-87d4-494c0b613090)
 
