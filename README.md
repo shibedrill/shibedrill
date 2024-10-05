@@ -1,6 +1,6 @@
 # Hi hello!!
 ## For hire!
-Check out the sections on my favorite languages, technologies, and topics to see if I'd be a decent fit. I'm also open to freelance work.
+Check out the sections on my favorite languages, technologies, and topics to see if I'd be a decent fit. I'm open to freelance and part time work.
 ## About
 I'm River (or Shibe Drill) [she/they/it]. I'm a programmer and tinkerer, currently studying Computing & Informatics at Rowan University.  
 <p float="center">
