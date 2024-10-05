@@ -1,4 +1,7 @@
 # Hi hello!!
+## For hire!
+Check out the sections on my favorite languages, technologies, and topics to see if I'd be a decent fit. I'm also open to freelance work.
+## About
 I'm River (or Shibe Drill) [she/they/it]. I'm a programmer and tinkerer, currently studying Computing & Informatics at Rowan University.  
 <p float="center">
   <img src="https://github.com/user-attachments/assets/1d43d407-2e0e-4c4a-9e80-8e9779ffa7bb" width=355>
