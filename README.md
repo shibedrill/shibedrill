@@ -25,14 +25,18 @@ Feel free to contribute to any of my projects, or to invite me to contribute to 
 - Free, libre, open source software
 - Right to repair
 - 3D printing
+- Computer repair
 
 ## Looking to learn more about
 - Kernel development
 - Driver development
-- Bare metal programming
+- Bare metal/embedded programming
 - Operating system architecture
 - CPU architecture
 - GUI programming
+- Reverse engineering
+- Internet Of Things
+- Firmware hacking
 
 ## Technologies (Decreasing order of familiarity)
 - Proxmox VE
