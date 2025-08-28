@@ -1,56 +1,40 @@
-# Hi hello!!
-## For hire!
-Check out the sections on my favorite languages, technologies, and topics to see if I'd be a decent fit. I'm open to freelance and part time work.
-## About
-I'm River (or Shibe Drill) [she/they/it]. I'm a programmer and tinkerer, currently studying Computing & Informatics at Rowan University.  
-<p float="center">
-  <img src="https://github.com/user-attachments/assets/1d43d407-2e0e-4c4a-9e80-8e9779ffa7bb" width=355>
-  <img src="https://github.com/user-attachments/assets/91e9d32e-3fbc-472a-87d4-494c0b613090" width=645>
-</p>
+# This repository has been archived.
+## Further Development
+Development is not discontinued! All further development will occur at [my personal Git repository.](https://git.shibedrill.site/shibedrill)
+## Microsoft does not deserve your patronage.
 
-(Pictured: [Oxidefetch, a fetch program](https://github.com/shibedrill/oxidefetch) and [libpci-rs, libpci rewritten in Rust](https://github.com/gibsonpil/libpci-rs)) 
+- Microsoft, its partners, its employees, its leadership, and its subsidiaries are all complicit (if not eagerly helpful and instrumental) in the shameless genocide of Palestinians, and the fascist persecution of anyone who dares defy or condemn such cruelty. It has directly provided cloud infrastructure and AI services to the Israeli Defense Force, and has cooperated with the FBI to identify individuals who have protested the current occupation of Palestine and the imminent extermination of all of its inhabitants.
+- Microsoft willingly and knowingly associates and partners with Palantir, a digital data broker that is known to cooperate with the Trump administration as part of its campaign of terror and persecution against immigrants, or anyone else deemed an enemy of the State.
+- Microsoft willingly cooperates with Twitter and its AI division, "xAI". Twitter is owned by the notorious Nazi  Elon Musk, and his AI "Grok" has engaged in claims of "white genocide", Holocaust denial, and on multiple occasions, referred to itself as "Mecha-Hitler", all at the behest of Musk.
 
-## How to contact me
-You can send me an email at [shibedrill1@gmail.com](mailto://shibedrill1@gmail.com), optionally encrypting it using [my public PGP key](River_0x945EFAA2_public.asc). Also, as proof that I own this key, a [signed message](signed_message.txt) is available that may be verified using this pubkey. More of my socials are available on [my website](https://shibedrill.site).  
+As such, I am discontinuing my presence on GitHub. If you value the lives and liberties of your fellow humans- both here and abroad- I advise you do the same.
 
-## Contributing
-Feel free to contribute to any of my projects, or to invite me to contribute to your own. I have no special requirements for new contributors.  
+### What you can do to help
 
-## Interests
-- Homelabbing & game hosting
-- Automation
-- Systems administration
-- Linux OS tinkering
-- Secure software
-- Free, libre, open source software
-- Right to repair
-- 3D printing
-- Computer repair
+- **Boycott any and all GitHub services or products.**
+	- GitHub Enterprise
+	- GitHub CoPilot
+	- GitHub repository services
+	- GitHub Sponsors
+	- Any licensed merchandise
+- **Boycott any and all Microsoft services or products.**
+	- Microsoft Office
+	- Microsoft 365
+	- Microsoft Copilot
+	- Microsoft Azure
+	- Microsoft Windows
+	- Microsoft Surface PCs
+	- Microsoft Copilot+ PCs
+- **Boycott any and all Xbox products.**
+	- Xbox consoles
+	- Xbox console accessories (such as controllers)
+	- Xbox games
+	- Xbox Live
+	- Xbox Gamepass
+	- Any licensed merchandise
+- **Boycott any and all Minecraft products.**
+	- Minecraft (game)
+	- Minecraft Bedrock credits (MineCoins)
+	- Any licensed merchandise
 
-## Looking to learn more about
-- Kernel development
-- Driver development
-- Bare metal/embedded programming
-- Operating system architecture
-- CPU architecture
-- GUI programming
-- Reverse engineering
-- Internet Of Things
-- Firmware hacking
-
-## Technologies (Decreasing order of familiarity)
-- Proxmox VE
-- LXC (Linux Containers)
-- QEMU
-- PFSense
-- Networking
-- Portainer
-- Docker
-
-## Programming Languages (Decreasing order of familiarity)
-- Rust
-- BASH
-- Java
-- Python
-- C++
-- C
+This list is non exhaustive.
